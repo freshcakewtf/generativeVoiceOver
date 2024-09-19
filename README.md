@@ -29,7 +29,7 @@ This project is a Python script that utilizes ChatGPT and the Eleven Labs API to
     Place these keys in the respective sections of the script or set them as environment variables.
 
 4.	**Modify Utils.py (optional)**:
-    You can customize the following parameters in [utils.py](/workspaces/generativeVoiceOver/utils.py) with your own custom values.
+    You can customize the following parameters in [utils.py](/workspaces/generativeVoiceOver/utils.py) with your own values.
 
 ## How to Use
 
@@ -38,6 +38,7 @@ This project is a Python script that utilizes ChatGPT and the Eleven Labs API to
     python generateVoiceOver.py
 
 2.	The script will generate a text narrative using ChatGPT, then convert it into a voiceover using Eleven Labs.
+
 3.	The resulting audio files will be saved to the /workspaces/gifTok/lib/assets/voiceOver directory.
 
 ## Customization
@@ -53,6 +54,6 @@ You can change the following by editing the Utils.py file:
 
 Feel free to fork the project and submit pull requests if you have improvements or new features you’d like to add.
 
-License
+[License](/workspaces/generativeVoiceOver/LICENSE)
 
 This project is licensed under the MIT License.

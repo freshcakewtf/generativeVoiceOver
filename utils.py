@@ -2,7 +2,7 @@
 
 # Voice ID from Eleven Labs
 def get_voice_id():
-    return 'Mg1264PmwVoIedxsF9nu'
+    return 'Mg1264PmwVoIedxsF9nu' # This ID is for Dr. Von Fusion from Eleven Labs. Swap with your own.
 
 # System Prompt for chat-GPT
 def systemPrompt():
@@ -12,6 +12,6 @@ def systemPrompt():
 def userPrompt():
     return 'Make me a narative for a YouTube Short that is about XYZ in roughly 30sec or less. It should be funny.'
 
-# How many Voiceovers do you need?
+# How many Voice Overs do you need?
 def numberOf():
     return 1
