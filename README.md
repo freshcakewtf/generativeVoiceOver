@@ -5,7 +5,7 @@ This project is a Python script that utilizes ChatGPT and the Eleven Labs API to
 ## Features
 - Uses ChatGPT to generate voiceover text.
 - Utilizes Eleven Labs API to convert text into natural-sounding voiceovers.
-- Customizable voice, prompts, and the number of voiceovers through [Utils.py.](/workspaces/generativeVoiceOver/utils.py)
+- Customizable voice, prompts, and the number of voiceovers through [Utils.py.](utils.py)
 
 ## Setup
 
@@ -29,7 +29,7 @@ This project is a Python script that utilizes ChatGPT and the Eleven Labs API to
     Place these keys in the respective sections of the script or set them as environment variables.
 
 4.	**Modify Utils.py (optional)**:
-    You can customize the following parameters in [utils.py](/workspaces/generativeVoiceOver/utils.py) with your own values.
+    You can customize the following parameters in [utils.py](utils.py) with your own values.
 
 ## How to Use
 
